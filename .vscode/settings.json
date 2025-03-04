@@ -1,7 +1,12 @@
 {
   "cSpell.words": [
     "actix",
+    "dotenv",
+    "dotenvy",
+    "pemfile",
+    "pkey",
     "rustc",
+    "rustls",
     "subconverter"
   ]
 }

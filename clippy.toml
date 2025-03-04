@@ -1,4 +1,4 @@
 disallowed-names = [
-  "e", # no single letter error bindings
+  "e", 
 ]
 disallowed-methods = ["std::cell::RefCell::default()", "std::rc::Rc::default()"]
